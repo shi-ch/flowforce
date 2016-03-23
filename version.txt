@@ -1,0 +1,9 @@
+This is the initial version of this repository.
+
+There are some resources to refer:
+
+1, big data DB Engine
+
+2, SQL engine on big data
+
+3, Flow computation engine on big data
